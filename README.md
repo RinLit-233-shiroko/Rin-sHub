@@ -81,7 +81,7 @@ Copyright © 2025 RinLit, All rights reserved.
 感谢这些为Hub投稿/贡献的同学:
 [![Contributors](http://contrib.nn.ci/api?repo=RinLit-233-shiroko/Rin-sHub)](https://github.com/RinLit-233-shiroko/Rin-sHub/graphs/contributors)
 
-感谢这些参演者：
+感谢这些参演者：\
 Rinlit \
 JerryQAQ \
 Aris \
@@ -100,7 +100,7 @@ Nachoneko-甘城 (AI助理) \
 2，2，3-三甲基戊烷 \
 pizerolol \
 CoiaPrant \
-quiet-star-gazing \
+quiet-star-gazing
 
 
 ### 使用的资源
