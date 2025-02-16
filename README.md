@@ -83,7 +83,7 @@ Copyright © 2025 RinLit, All rights reserved.
 
 感谢这些参演者：
 Rinlit \
-JerryQAQ \ 
+JerryQAQ \
 Aris \
 bbdqz (白白的群子) \
 MC_AbleBlank \
