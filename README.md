@@ -195,7 +195,7 @@ Copyright © 2025 RinLit, All rights reserved.
             </td>
             <td align="center">
                 <a href="#">
-                    <img src="https://q2.qlogo.cn/headimg_dl?dst_uin=2，2，3-三甲基戊烷&spec=100" width="100;" alt="2，2，3-三甲基戊烷"/>
+                    <img src="https://q2.qlogo.cn/headimg_dl?dst_uin=3530309889&spec=100" width="100;" alt="2，2，3-三甲基戊烷"/>
                     <br />
                     <sub><b>2，2，3-三甲基戊烷</b></sub>
                 </a>
