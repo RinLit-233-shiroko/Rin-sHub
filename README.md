@@ -81,6 +81,28 @@ Copyright © 2025 RinLit, All rights reserved.
 感谢这些为Hub投稿/贡献的同学:
 [![Contributors](http://contrib.nn.ci/api?repo=RinLit-233-shiroko/Rin-sHub)](https://github.com/RinLit-233-shiroko/Rin-sHub/graphs/contributors)
 
+感谢这些参演者：
+Rinlit \
+JerryQAQ \ 
+Aris \
+bbdqz (白白的群子) \
+MC_AbleBlank \
+LyRin (零音) \
+纸飞机 \
+小岳 \
+lokooo. \
+干冰DryIce \
+夏辉7369 \
+姜胤 \
+yuuka \
+Nachoneko-甘城 (AI助理) \
+冷静的静冷 \
+2，2，3-三甲基戊烷 \
+pizerolol \
+CoiaPrant \
+quiet-star-gazing \
+
+
 ### 使用的资源
 
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons)
