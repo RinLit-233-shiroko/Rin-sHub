@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" media="(max-width: 1200px)" href="./css/index_mobile.css">
     <link rel="stylesheet" href="./assets/icon/FluentSystemIcons-Resizable.css">
-    <title>RinLit 的 Hub</title>
+    <title>🥵 RinLit 的 Hub</title>
 </head>
 <body>
     <!-- Header -->
@@ -53,6 +53,24 @@
                 <button class="pushButton transparent tool" id="closeButton">
                     <i class="icon-ic_fluent_dismiss_20_filled"></i>
                 </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- r18_alert -->
+    <div class="alert" id="r18_alert">
+        <div class="window">
+            <div class="layout-container red">
+                <span class="window_title">年龄认证 / Age Verification</span>
+                <h2>本页面包含可能包含 R-18 的内容，请确认您的年龄以继续访问。</h2>
+            </div>
+            <div class="layout-container transparent">
+                <p>本网站可能包含<strong>未成年人不适宜</strong>的内容，请确认您的年龄后再访问。本网站只是 RinLit 和她的**群友一起发电的地方，并不代表本网站内容的真实性、准确性、完整性或可靠性。</p>
+                <a href="#" class="hyperLinkLabel" onclick="setAge(false)">显示更多详情</a>
+            </div>
+            <div class="layout-container bottom">
+                <button class="pushButton primary" onclick="setAge(true)">我已满 18 岁 - 进入</button>
+                <button class="pushButton" onclick="setAge(false)">我未满 18 岁 - 退出</button>
             </div>
         </div>
     </div>

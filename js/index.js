@@ -1,6 +1,42 @@
 // 图片移动、缩放
 
+function setAge(isAdult) {
+    let alert_window = document.getElementById("r18_alert");
+    if (isAdult) {
+        // localStorage.setItem("ageVerified", "true");
+        alert_window.classList.remove("active")
+    } else {
+        // localStorage.setItem("ageVerified", "false");
+        alert_window.innerHTML = '' +
+            '<div class="window">\n' +
+            '            <div class="layout-container yellow">\n' +
+            '                <span class="window_title">你被骗了</span>\n' +
+            '                <h2>实际上这里没有任何 NSFW 内容</h2>\n' +
+            '            </div>\n' +
+            '            <div class="layout-container transparent">\n' +
+            '                <p>hiahia，你没有看错，这里没有任何 NSFW 内容。<br>但是别失望了哈，这里的内容还是很逆天的，一定要看看！</p>\n' +
+            '            </div>\n' +
+            '            <div class="layout-container bottom">\n' +
+            '                <button class="pushButton primary" onclick="setAge(true)">让我访问！</button>\n' +
+            '            </div>\n' +
+            '        </div>'
+    }
+}
+
 document.addEventListener("DOMContentLoaded", function () {
+    // 警告
+    const r18alert = document.querySelector("#r18_alert");
+
+    if (localStorage.getItem("ageVerified") === "true") {
+        console.log("满足条件")
+        r18alert.classList.remove("active")
+    } else {
+        console.log("不满足条件")
+        r18alert.classList.add("active")
+    }
+
+
+    // 图片查看器
     const rangeInput = document.getElementById("scale-range");
     const viewerImage = document.getElementById("viewer-image");
     const imageViewer = document.getElementById("image-viewer");
