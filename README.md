@@ -8,9 +8,17 @@
 [![星标](https://img.shields.io/github/stars/RinLit-233-shiroko/Rin-sHub?style=for-the-badge&color=orange&label=星标)](https://github.com/RinLit-233-shiroko/Rin-sHub)
 [![开源许可](https://img.shields.io/badge/license-MIT-darkgreen.svg?label=开源许可证&style=for-the-badge)](https://github.com/RinLit-233-shiroko/Rin-sHub)
 
-[现在投稿](#如何投稿) | [在线查看](https://hub.rinlit.cn) | [许可证](#许可证)
+[~~现在投稿~~](#如何投稿) | [在线查看](https://hub.rinlit.cn) | [许可证](#许可证)
 
 </div>
+
+> [!CAUTION]
+> 目前我全新的个人网站（[RinLit.CN](https://rinlit.cn/)）已经启用。本项目将不再维护。
+
+> [!IMPORTANT]
+> 故此，Rin's Hub 网站正式重构为 RinLit Gallery (rinlit.cn/gallery)，并且与全新的个人网站发布。为您提供更优质的投稿、以及浏览体验。
+>
+> 现在，可通过您的 RinLit Account 更方便地完成投稿、收藏。在未来，敬请期待更多的 RinLit 服务~
 
 <hr>
 
@@ -45,7 +53,19 @@
 - 内置的Filter(搜索功能)，可以过滤到感兴趣的内容
 - 使用**原生** HTML、CSS 和 JavaScript 编写，没错，原生。
 
-## 如何投稿
+## ~~如何投稿~~
+
+> [!IMPORTANT]
+> 目前我全新的个人网站（[RinLit.CN](https://rinlit.cn/)）已经启用。
+>
+> 故此，Rin's Hub 网站正式重构为 RinLit Gallery (rinlit.cn/gallery)，并且与全新的个人网站发布。为您提供更优质的投稿、以及浏览体验。
+>
+> （本）旧站可能仍会保留，但不再接受任何新的稿件，以及其他的PR、Issue。
+> 
+> 现在，可通过您的 RinLit Account 更方便地完成投稿、收藏。在未来，敬请期待更多的 RinLit 服务~
+
+<s>
+
 如果你想为此投稿，请按照以下步骤：
 
 1. 🍴 Fork 本仓库；
@@ -78,7 +98,9 @@
     }
     ```
 3. 📷 在 `./updates/images` 文件夹中添加你的图片，图片名称请与 `images.json` 文件中的 `image` 字段对应；
-4. 🎉 完成！在提交 PR 并通过审核被合并后，你的内容将会出现在网站上。
+4. 🎉 完成！在提交 PR 并通过审核被合并后，你的内容将会出现在网站上。 
+
+</s>
 
 ## 许可证
 本插件采用了 MIT 许可证，详情请查看 [LICENSE](LICENSE) 文件。
